@@ -6,7 +6,7 @@ public class LoginTest {
 
 	@Test
 	public void verifylogin() {
-		System.out.println("verify login test");
+		System.out.println("login test");
 	}
 	
 }
